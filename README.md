@@ -1,4 +1,4 @@
-# sopel-reddit
+# sopel-meetbot
 
 The `meetbot` plugin formerly shipped with Sopel prior to version 8.0.
 

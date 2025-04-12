@@ -17,7 +17,7 @@ import time
 
 from sopel import formatting, plugin, tools
 from sopel.config import types
-from sopel.modules.url import find_title
+from sopel.builtins.url import find_title
 
 
 UNTITLED_MEETING = "Untitled meeting"
